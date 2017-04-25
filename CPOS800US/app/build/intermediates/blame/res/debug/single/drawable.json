@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_alibuybutton_pressed.xml",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\drawable\\bg_alibuybutton_pressed.xml"
+    },
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_toggle_no.png",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\drawable\\btn_toggle_no.png"
+    },
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\txt_borad_bg.xml",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\drawable\\txt_borad_bg.xml"
+    },
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\page_indicator.png",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\drawable\\page_indicator.png"
+    },
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\page_indicator_focused.png",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\drawable\\page_indicator_focused.png"
+    },
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_toggle_bg.xml",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\drawable\\btn_toggle_bg.xml"
+    },
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_toggle_yes.png",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\drawable\\btn_toggle_yes.png"
+    },
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_alibuybutton_selected.xml",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\drawable\\bg_alibuybutton_selected.xml"
+    },
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bg.xml",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\drawable\\btn_bg.xml"
+    },
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_toggle.xml",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\drawable\\btn_toggle.xml"
+    },
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_alibuybutton_default.xml",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\drawable\\bg_alibuybutton_default.xml"
+    }
+]

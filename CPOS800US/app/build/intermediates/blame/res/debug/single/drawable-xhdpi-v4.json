@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_toggle_no.png",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\drawable-xhdpi\\btn_toggle_no.png"
+    },
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rfid15693.png",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\drawable-xhdpi\\rfid15693.png"
+    },
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\main_background.png",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\drawable-xhdpi\\main_background.png"
+    },
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\beidou.png",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\drawable-xhdpi\\beidou.png"
+    },
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_toggle_yes.png",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\drawable-xhdpi\\btn_toggle_yes.png"
+    },
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\magstripecard.png",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\drawable-xhdpi\\magstripecard.png"
+    },
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sfz_bg.png",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\drawable-xhdpi\\sfz_bg.png"
+    },
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fingerprint.png",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\drawable-xhdpi\\fingerprint.png"
+    },
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hx.png",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\drawable-xhdpi\\hx.png"
+    },
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sfz.png",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\drawable-xhdpi\\sfz.png"
+    },
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\background.png",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\drawable-xhdpi\\background.png"
+    },
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loop.png",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\drawable-xhdpi\\loop.png"
+    },
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cpu.png",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\drawable-xhdpi\\cpu.png"
+    },
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hk.png",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\drawable-xhdpi\\hk.png"
+    },
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\barcode.png",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\drawable-xhdpi\\barcode.png"
+    },
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic.png",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\drawable-xhdpi\\ic.png"
+    },
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\m1.png",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\drawable-xhdpi\\m1.png"
+    },
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\printer.png",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\drawable-xhdpi\\printer.png"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\layout-1024x600\\tag_read_layout.xml",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\layout-1024x600\\tag_read_layout.xml"
+    },
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\layout-1024x600\\activity_uhf.xml",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\layout-1024x600\\activity_uhf.xml"
+    },
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\layout-1024x600\\tag_write_layout.xml",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\layout-1024x600\\tag_write_layout.xml"
+    },
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\layout-1024x600\\main_activity.xml",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\layout-1024x600\\main_activity.xml"
+    }
+]

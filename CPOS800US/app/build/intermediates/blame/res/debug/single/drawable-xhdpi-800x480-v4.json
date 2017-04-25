@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-800x480-v4\\background.png",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\drawable-xhdpi-800x480\\background.png"
+    },
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-800x480-v4\\main_background.png",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\drawable-xhdpi-800x480\\main_background.png"
+    }
+]

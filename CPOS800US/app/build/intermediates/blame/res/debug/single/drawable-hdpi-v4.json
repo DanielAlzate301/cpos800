@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_toggle_no.png",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\drawable-hdpi\\btn_toggle_no.png"
+    },
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_background.png",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\drawable-hdpi\\main_background.png"
+    },
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background.png",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\drawable-hdpi\\background.png"
+    },
+    {
+        "merged": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_toggle_yes.png",
+        "source": "D:\\Apps\\Android\\AndroidStudio\\CPOS800US\\app\\src\\main\\res\\drawable-hdpi\\btn_toggle_yes.png"
+    }
+]

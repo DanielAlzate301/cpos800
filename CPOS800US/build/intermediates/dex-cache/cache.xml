@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Apps\Android\AndroidStudio\CPOS800US\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="D:\Apps\Android\AndroidStudio\CPOS800US\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0_49e1a8a52f45cb1537d5386a68cc8d8ea41200e0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel Alzate\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\14.0\67b7be4ee7ba48e4828a42d6d5069761186d4a53\guava-14.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67b7be4ee7ba48e4828a42d6d5069761186d4a53">
+        <dex dex="D:\Apps\Android\AndroidStudio\CPOS800US\app\build\intermediates\pre-dexed\debug\guava-14.0_c1cea894cca5ef08083b47f5d17964a1830df216.jar" />
+    </item>
+    <item
+        jar="D:\Apps\Android\AndroidStudio\CPOS800US\app\libs\DecodeWlt.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="08a75f3e9fd415101bfe5d7a77e644dec4fbed1d">
+        <dex dex="D:\Apps\Android\AndroidStudio\CPOS800US\app\build\intermediates\pre-dexed\debug\DecodeWlt_f745c4934411142cef15a6dfa58743cf52da6342.jar" />
+    </item>
+    <item
+        jar="D:\Apps\Android\AndroidStudio\CPOS800US\app\libs\microlog4android-1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3dbfcfb407070fc33e60e26e45d059763afdaf94">
+        <dex dex="D:\Apps\Android\AndroidStudio\CPOS800US\app\build\intermediates\pre-dexed\debug\microlog4android-1.0.0_15f3df6bbc5f766373dd40d8fb0e0de08e9b24fc.jar" />
+    </item>
+    <item
+        jar="F:\Android\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="D:\Apps\Android\AndroidStudio\CPOS800US\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0_6517fd05db4abeb76094c0ffe1cf5c4f6558d073.jar" />
+    </item>
+    <item
+        jar="D:\Apps\Android\AndroidStudio\CPOS800US\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="D:\Apps\Android\AndroidStudio\CPOS800US\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-20.0.0_2025c8a663eec0e7a6f639d9828f5d4eb087c05c.jar" />
+    </item>
+
+</items>
